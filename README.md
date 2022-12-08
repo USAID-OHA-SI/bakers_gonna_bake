@@ -1,4 +1,4 @@
 # bakers_gonna_bake
 SI Bake Team Recipes Galore
 
-![BBS_heat-01](https://user-images.githubusercontent.com/8933069/206475828-03b6c75d-4ffd-483e-b09b-426c307e5838.png)
+![BBS_heat-01 (1)](https://user-images.githubusercontent.com/5873344/206485570-0e665fcc-1627-4905-951a-d104d2f165c9.png)
