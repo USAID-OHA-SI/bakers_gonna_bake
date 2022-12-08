@@ -50,7 +50,7 @@
       scale_y_discrete(limits = rev) +
       scale_x_discrete(position = "top") +
       labs(x = NULL, y = NULL, 
-           title = "BRITISH BAKING SHOW BAKE WEEK THEMES THROUGH TEN SEASONS",
+           title = "THE GREAT BRITISH BAKING SHOW BAKE WEEK THEMES THROUGH TEN SEASONS",
            caption = "Source: www.reddit.com/r/bakeoff | ref id: d25063c8")
     
     # Show plot
